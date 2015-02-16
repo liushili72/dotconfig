@@ -1,0 +1,27 @@
+[submodule "dotvim/.vim/bundle/neocomplete.vim"]
+	path = dotvim/.vim/bundle/neocomplete.vim
+	url = https://github.com/Shougo/neocomplete.vim.git
+[submodule "dotvim/.vim/bundle/vim-colors-solarized"]
+	path = dotvim/.vim/bundle/vim-colors-solarized
+	url = https://github.com/altercation/vim-colors-solarized.git
+[submodule "dotvim/.vim/bundle/nerdtree"]
+	path = dotvim/.vim/bundle/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "dotvim/.vim/bundle/vim-javascript"]
+	path = dotvim/.vim/bundle/vim-javascript
+	url = https://github.com/pangloss/vim-javascript.git
+[submodule "dotvim/.vim/bundle/indentLine"]
+	path = dotvim/.vim/bundle/indentLine
+	url = https://github.com/Yggdroot/indentLine.git
+[submodule "dotvim/.vim/bundle/neosnippet.vim"]
+	path = dotvim/.vim/bundle/neosnippet.vim
+	url = https://github.com/Shougo/neosnippet.vim.git
+[submodule "dotvim/.vim/bundle/molokai"]
+	path = dotvim/.vim/bundle/molokai
+	url = https://github.com/tomasr/molokai.git
+[submodule "dotvim/.vim/bundle/vim-snippets"]
+	path = dotvim/.vim/bundle/vim-snippets
+	url = https://github.com/honza/vim-snippets.git
+[submodule "dotvim/.vim/bundle/gruvbox"]
+	path = dotvim/.vim/bundle/gruvbox
+	url = https://github.com/morhetz/gruvbox.git
